@@ -1,0 +1,23 @@
+.grupo {
+    display: flex;
+    justify-content: center;
+}
+
+.styleImage:hover {
+    transform: scale(2.0);
+}
+
+.styleImage{
+    margin-top: 30%;
+}
+
+.botonton a {
+    text-decoration: none;
+    color: black;
+}
+
+.botonton {
+    margin-top: 175px;
+    width: 100px;
+    height: 50px;
+}
